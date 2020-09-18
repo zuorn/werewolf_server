@@ -24,7 +24,6 @@ import java.util.concurrent.*;
  * 游戏流程控制器
  *
  * @author wangtonghe
- * @date 2017/7/24 08:49
  */
 public class GameController implements BaseController {
 
